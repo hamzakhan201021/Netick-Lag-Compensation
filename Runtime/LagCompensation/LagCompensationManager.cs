@@ -2,9 +2,6 @@ using UnityEngine;
 using Netick.Unity;
 using System.Collections.Generic;
 using Netick;
-// using HalalStudio.NetickLagCompensation;
-
-// TODO use namespace, cleanup .. ..
 
 namespace HalalStudio.NetickLagCompensation
 {
@@ -147,13 +144,6 @@ namespace HalalStudio.NetickLagCompensation
         //     // _collider3DStates.Remove(c.Collider);
         //     // _colliders3D.Remove(c.Collider);
         // }
-
-        // TODO remove this
-        public override void NetworkAwake()
-        {
-            //Instance = this;
-        }
-
         public override void NetworkStart()
         {
             if (!IsServer) return;
@@ -475,7 +465,6 @@ namespace HalalStudio.NetickLagCompensation
             // return hitFound;
         }
 
-        // TODO make precision check work.
         /// <summary>
         /// Raycast at a specific time using custom (LC) Lag Compensation
         /// </summary>
@@ -596,7 +585,7 @@ namespace HalalStudio.NetickLagCompensation
         //}
 
         /// <summary>
-        /// Send your shot data using this. TODO try to avoid using RPC
+        /// Send your shot data using this. OPTIONAL, See documentation
         /// </summary>
         /// <param name="position"></param>
         /// <param name="rotation"></param>
