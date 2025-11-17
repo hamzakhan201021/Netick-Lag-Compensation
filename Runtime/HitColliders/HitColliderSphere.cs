@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace HalalStudio.NetickLagCompensation
 {
-
+    [AddComponentMenu("Halal Studio/Netick Lag Compensation/Hit Collider Sphere")]
     public class HitColliderSphere : HitColliderGeneric
     {
         public float radius = 1f;

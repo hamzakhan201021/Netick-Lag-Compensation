@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace HalalStudio.NetickLagCompensation
 {
+    [AddComponentMenu("Halal Studio/Netick Lag Compensation/Hit Collider Capsule")]
     public class HitColliderCapsule : HitColliderGeneric
     {
         enum Direction { x = 0, y = 1, z = 2 }

@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace HalalStudio.NetickLagCompensation
 {
+    [AddComponentMenu("Halal Studio/Netick Lag Compensation/Hit Collider Box")]
     public class HitColliderBox : HitColliderGeneric
     {
         public Vector3 size = Vector3.one;

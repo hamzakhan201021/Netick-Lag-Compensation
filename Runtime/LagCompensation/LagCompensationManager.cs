@@ -38,6 +38,7 @@ namespace HalalStudio.NetickLagCompensation
         }
     }
 
+    [AddComponentMenu("Halal Studio/Netick Lag Compensation/Lag Compensation Manager")]
     public class LagCompensationManager : NetworkBehaviour
     {
 
