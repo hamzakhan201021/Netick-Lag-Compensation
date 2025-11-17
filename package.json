@@ -7,8 +7,8 @@
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
     "com.karrar.netick": "0.15.14"
- },
- "keywords": [
+  },
+  "keywords": [
     "networking",
     "lagcompensation",
     "multiplayer"
@@ -17,5 +17,12 @@
     "name": "Hamza Khan",
     "email": "hamzakhan201021@gmail.com",
     "url": "https://github.com/hamzakhan201021"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Comparison Cubes Prefabs",
+      "description": "Two prefabs (ClientCube and ServerCube) for enabling comparison cubes in the Netick Lag Compensation system. Assign them in the LC settings to use.",
+      "path": "Samples~/ComparisonCubes"
+    }
+  ]
 }
