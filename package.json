@@ -1,0 +1,21 @@
+{
+  "name": "com.halalstudio.neticklagcompensation",
+  "version": "1.0.0",
+  "displayName": "Netick Lag Compensation",
+  "description": "FREE Lag Compensation for Netick",
+  "unity": "2021.3",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.karrar.netick": "0.15.14"
+ },
+ "keywords": [
+    "networking",
+    "lagcompensation",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "Hamza Khan",
+    "email": "hamzakhan201021@gmail.com",
+    "url": "https://github.com/hamzakhan201021"
+  }
+}
