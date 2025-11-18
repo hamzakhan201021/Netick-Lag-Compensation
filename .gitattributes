@@ -1,2 +1,0 @@
-# Hide Unity .meta files from GitHub's license + language detection
-*.meta linguist-generated
