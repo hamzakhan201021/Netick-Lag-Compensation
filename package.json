@@ -1,6 +1,6 @@
 {
   "name": "com.halalstudio.neticklagcompensation",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "displayName": "Netick Lag Compensation",
   "description": "FREE Lag Compensation for Netick",
   "unity": "2021.3",
