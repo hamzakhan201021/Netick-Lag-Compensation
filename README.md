@@ -44,4 +44,4 @@ NetickLagCompensation/
 **Hamza Khan**  
 - Email: hamzakhan201021@gmail.com  
 - GitHub: [https://github.com/hamzakhan201021](https://github.com/hamzakhan201021)  
-- License: MIT / Free to use
+- License: HUL (Halal Use License)
