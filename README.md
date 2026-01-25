@@ -1,5 +1,8 @@
 # Netick Lag Compensation
 
+NOTE : this has quite a few issues and was in development.
+i have stopped working on this for now
+
 FREE Lag compensation system for Netick.
 
 ---
